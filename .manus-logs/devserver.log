@@ -1,0 +1,48 @@
+[2026-02-15T22:09:14.079Z] Dev server process group stopped
+[2026-02-15T22:09:14.081Z] ELIFECYCLE  Command failed.
+[2026-02-15T22:09:14.094Z] Dev server exited with code -15
+[2026-02-15T22:10:37.447Z] Starting dev server with command: pnpm run dev
+[2026-02-15T22:10:37.731Z] ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND  No package.json (or package.yaml, or package.json5) was found in "/home/ubuntu/hilton-head-drone-services".
+[2026-02-15T22:10:37.747Z] Dev server exited with code 1
+[2026-02-15T23:15:17.643Z] Starting dev server with command: pnpm run dev
+[2026-02-15T23:15:17.925Z] 
+[2026-02-15T23:15:17.926Z] > hilton-head-drone-services@1.0.0 dev /home/ubuntu/hilton-head-drone-services
+[2026-02-15T23:15:17.926Z] > vite
+[2026-02-15T23:15:17.927Z] 
+[2026-02-15T23:15:18.180Z] 
+[2026-02-15T23:15:18.181Z] VITE v5.4.21  ready in 219 ms
+[2026-02-15T23:15:18.181Z] 
+[2026-02-15T23:15:18.181Z] ➜  Local:   http://localhost:5173/
+[2026-02-15T23:15:18.182Z] ➜  Network: http://169.254.0.21:5173/
+[2026-02-15T23:15:50.305Z] 6:15:50 PM [vite] hmr update /src/App.tsx
+[2026-02-15T23:16:23.965Z] 6:16:23 PM [vite] hmr update /src/App.css
+[2026-02-15T23:19:09.367Z] 6:19:09 PM [vite] hmr update /src/App.tsx
+[2026-02-15T23:24:52.943Z] 6:24:52 PM [vite] page reload index.html
+[2026-02-15T23:24:52.960Z] 6:24:52 PM [vite] page reload client/index.html
+[2026-02-15T23:24:53.723Z] 6:24:53 PM [vite] changed tsconfig file detected: /home/ubuntu/hilton-head-drone-services/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+[2026-02-15T23:24:53.723Z] 6:24:53 PM [vite] vite.config.ts changed, restarting server...
+[2026-02-15T23:24:53.725Z] 6:24:53 PM [vite] hmr update /src/App.css
+[2026-02-15T23:24:53.725Z] 6:24:53 PM [vite] hmr update /src/App.tsx
+[2026-02-15T23:24:53.727Z] 6:24:53 PM [vite] hmr update /src/index.css
+[2026-02-15T23:24:53.727Z] 6:24:53 PM [vite] page reload src/main.tsx
+[2026-02-15T23:24:53.730Z] 6:24:53 PM [vite] hmr update /src/components/About.css
+[2026-02-15T23:24:53.731Z] 6:24:53 PM [vite] hmr update /src/components/About.tsx
+[2026-02-15T23:24:53.731Z] 6:24:53 PM [vite] hmr update /src/components/Drones.css
+[2026-02-15T23:24:53.731Z] 6:24:53 PM [vite] hmr update /src/components/Drones.tsx
+[2026-02-15T23:24:53.731Z] 6:24:53 PM [vite] hmr update /src/components/Footer.css
+[2026-02-15T23:24:53.732Z] 6:24:53 PM [vite] hmr update /src/components/Footer.tsx
+[2026-02-15T23:24:53.732Z] 6:24:53 PM [vite] hmr update /src/components/Header.css
+[2026-02-15T23:24:53.732Z] 6:24:53 PM [vite] hmr update /src/components/Header.tsx
+[2026-02-15T23:24:53.732Z] 6:24:53 PM [vite] hmr update /src/components/Hero.css
+[2026-02-15T23:24:53.732Z] 6:24:53 PM [vite] hmr update /src/components/Hero.tsx
+[2026-02-15T23:24:53.733Z] 6:24:53 PM [vite] hmr update /src/components/InquiryForm.css
+[2026-02-15T23:24:53.733Z] 6:24:53 PM [vite] hmr update /src/components/InquiryForm.tsx
+[2026-02-15T23:24:53.733Z] 6:24:53 PM [vite] hmr update /src/components/Portfolio.css
+[2026-02-15T23:24:53.733Z] 6:24:53 PM [vite] hmr update /src/components/Portfolio.tsx
+[2026-02-15T23:24:53.733Z] 6:24:53 PM [vite] hmr update /src/components/Pricing.css
+[2026-02-15T23:24:53.733Z] 6:24:53 PM [vite] hmr update /src/components/Pricing.tsx
+[2026-02-15T23:24:53.734Z] 6:24:53 PM [vite] hmr update /src/components/Services.css
+[2026-02-15T23:24:53.734Z] 6:24:53 PM [vite] hmr update /src/components/Services.tsx
+[2026-02-15T23:24:53.734Z] 6:24:53 PM [vite] page reload src/hooks/useScrollAnimation.ts
+[2026-02-15T23:24:53.748Z] Re-optimizing dependencies because lockfile has changed
+[2026-02-15T23:24:53.759Z] 6:24:53 PM [vite] server restarted.
