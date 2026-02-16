@@ -77,3 +77,8 @@
 [2026-02-16T00:33:45.152Z] 
 [2026-02-16T00:33:45.152Z] ➜  Local:   http://localhost:5173/
 [2026-02-16T00:33:45.152Z] ➜  Network: http://169.254.0.21:5173/
+[2026-02-16T00:41:13.792Z] 7:41:13 PM [vite] vite.config.ts changed, restarting server...
+[2026-02-16T00:41:13.811Z] 7:41:13 PM [vite] server restarted.
+[2026-02-16T00:41:13.811Z] 
+[2026-02-16T00:41:13.811Z] ➜  Local:   http://localhost:5173/hilton-head-drone-services/
+[2026-02-16T00:41:13.811Z] ➜  Network: http://169.254.0.21:5173/hilton-head-drone-services/
