@@ -1,0 +1,7 @@
+{
+  "buildCommand": "pnpm build",
+  "startCommand": "node dist/server.js",
+  "outputDirectory": "dist",
+  "nodeVersion": "22",
+  "packageManager": "pnpm"
+}
