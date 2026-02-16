@@ -64,3 +64,16 @@
 [2026-02-16T00:20:21.736Z] 
 [2026-02-16T00:20:21.736Z] ➜  Local:   http://localhost:5173/
 [2026-02-16T00:20:21.737Z] ➜  Network: http://169.254.0.21:5173/
+[2026-02-16T00:33:41.666Z] Dev server process group stopped
+[2026-02-16T00:33:41.683Z] ELIFECYCLE  Command failed.
+[2026-02-16T00:33:41.687Z] Dev server exited with code -15
+[2026-02-16T00:33:44.671Z] Starting dev server with command: pnpm run dev
+[2026-02-16T00:33:44.949Z] 
+[2026-02-16T00:33:44.950Z] > hilton-head-drone-services@1.0.0 dev /home/ubuntu/hilton-head-drone-services
+[2026-02-16T00:33:44.951Z] > vite
+[2026-02-16T00:33:44.951Z] 
+[2026-02-16T00:33:45.151Z] 
+[2026-02-16T00:33:45.151Z] VITE v5.4.21  ready in 167 ms
+[2026-02-16T00:33:45.152Z] 
+[2026-02-16T00:33:45.152Z] ➜  Local:   http://localhost:5173/
+[2026-02-16T00:33:45.152Z] ➜  Network: http://169.254.0.21:5173/
