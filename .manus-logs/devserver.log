@@ -46,3 +46,21 @@
 [2026-02-15T23:24:53.734Z] 6:24:53 PM [vite] page reload src/hooks/useScrollAnimation.ts
 [2026-02-15T23:24:53.748Z] Re-optimizing dependencies because lockfile has changed
 [2026-02-15T23:24:53.759Z] 6:24:53 PM [vite] server restarted.
+[2026-02-15T23:24:55.543Z] 6:24:55 PM [vite] page reload index.html
+[2026-02-15T23:24:55.558Z] 6:24:55 PM [vite] page reload client/index.html
+[2026-02-15T23:24:56.267Z] 6:24:56 PM [vite] vite.config.ts changed, restarting server...
+[2026-02-15T23:24:56.289Z] 6:24:56 PM [vite] server restarted.
+[2026-02-16T00:20:18.237Z] Dev server process group stopped
+[2026-02-16T00:20:18.254Z] ELIFECYCLE  Command failed.
+[2026-02-16T00:20:18.258Z] Dev server exited with code -15
+[2026-02-16T00:20:21.241Z] Starting dev server with command: pnpm run dev
+[2026-02-16T00:20:21.517Z] 
+[2026-02-16T00:20:21.518Z] > hilton-head-drone-services@1.0.0 dev /home/ubuntu/hilton-head-drone-services
+[2026-02-16T00:20:21.518Z] > vite
+[2026-02-16T00:20:21.518Z] 
+[2026-02-16T00:20:21.710Z] Re-optimizing dependencies because lockfile has changed
+[2026-02-16T00:20:21.735Z] 
+[2026-02-16T00:20:21.735Z] VITE v5.4.21  ready in 183 ms
+[2026-02-16T00:20:21.736Z] 
+[2026-02-16T00:20:21.736Z] ➜  Local:   http://localhost:5173/
+[2026-02-16T00:20:21.737Z] ➜  Network: http://169.254.0.21:5173/
