@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && esbuild server/index.ts --bundle --platform=node --outfile=dist/server.js --external:express",
     "preview": "vite preview",
     "start": "node dist/server.js",
     "build:server": "esbuild server/index.ts --bundle --platform=node --outfile=dist/server.js --external:express",
